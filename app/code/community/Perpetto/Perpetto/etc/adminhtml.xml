@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <perpetto translate="title" module="perpetto">
+                                        <title>Perpetto Account</title>
+                                    </perpetto>
+                                    <perpetto_recommendations translate="title" module="perpetto">
+                                        <title>Perpetto Recommendations</title>
+                                    </perpetto_recommendations>
+                                    <perpetto_campaigns translate="title" module="perpetto">
+                                        <title>Perpetto Email Automation</title>
+                                    </perpetto_campaigns>
+                                </children>
+                            </config>
+                        </children>
+                    </system>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
