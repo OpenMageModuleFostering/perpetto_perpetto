@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Perpetto_Perpetto>
-            <version>0.3.0</version>
+            <version>1.0.0</version>
         </Perpetto_Perpetto>
     </modules>
     <admin>

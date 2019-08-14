@@ -12,7 +12,7 @@ class Perpetto_Perpetto_Block_Adminhtml_System_Config_Form_Account extends Perpe
     {
         parent::_construct();
 
-        $this->setTemplate('perpetto/adminhtml/system/config/form/account.phtml');
+        $this->setTemplate('perpetto/config/form/account.phtml');
     }
 
     /**

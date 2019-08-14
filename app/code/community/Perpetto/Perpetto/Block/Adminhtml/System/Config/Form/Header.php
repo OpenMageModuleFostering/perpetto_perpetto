@@ -14,7 +14,7 @@ class Perpetto_Perpetto_Block_Adminhtml_System_Config_Form_Header extends Mage_A
     public function _construct()
     {
         parent::_construct();
-        $this->setTemplate('perpetto/adminhtml/system/config/form/header.phtml');
+        $this->setTemplate('perpetto/config/form/header.phtml');
     }
 
     /**

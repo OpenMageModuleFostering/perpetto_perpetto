@@ -17,7 +17,7 @@ class Perpetto_Perpetto_Block_Adminhtml_System_Config_Form_Campaigns extends Per
     {
         parent::_construct();
 
-        $this->setTemplate('perpetto/adminhtml/system/config/form/campaigns.phtml');
+        $this->setTemplate('perpetto/config/form/campaigns.phtml');
 
         // @TODO: calls the API every time
         try {

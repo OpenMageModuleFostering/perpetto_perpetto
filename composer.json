@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/Perpetto_Perpetto",
     "type": "magento-module",
-    "license": "GPL-3.0",
+    "license": "Perpetto-Terms-of-Use",
     "homepage": "",
-    "description": "Integration with Perpetto service",
+    "description": "The Perpetto integration module for Magento 1",
     "authors": [
     {
         "name": "Alexander Kitov",

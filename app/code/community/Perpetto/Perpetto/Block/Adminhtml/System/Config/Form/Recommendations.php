@@ -17,7 +17,7 @@ class Perpetto_Perpetto_Block_Adminhtml_System_Config_Form_Recommendations exten
     {
         parent::_construct();
 
-        $this->setTemplate('perpetto/adminhtml/system/config/form/recommendations.phtml');
+        $this->setTemplate('perpetto/config/form/recommendations.phtml');
     }
 
     /**
