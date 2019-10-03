@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Perpetto_Perpetto",
+    "name": "OpenMageModuleFostering\/Perpetto_Perpetto",
     "type": "magento-module",
     "license": "Perpetto-Terms-of-Use",
     "homepage": "",
     "description": "The Perpetto integration module for Magento 1",
     "authors": [
-    {
-        "name": "Alexander Kitov",
-        "email": "alex@perpetto.com"
-    }
-],
+        {
+            "name": "Alexander Kitov",
+            "email": "alex@perpetto.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
